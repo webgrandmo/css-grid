@@ -1,0 +1,4 @@
+body {
+    display: grid;
+    grid-template: 10em 10em 10em / repeat(auto-fill, minmax(10em, 1fr));
+}
